@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "https://jalehman.com"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Josh Lehman"
 theme = "athena"
 [params]
   DateForm = "2.1.2006"
