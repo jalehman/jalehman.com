@@ -1,6 +1,6 @@
 baseURL = "https://jalehman.com"
 languageCode = "en-us"
 title = "Josh Lehman"
-theme = "athena"
+# theme = "athena"
 [params]
   DateForm = "2.1.2006"
